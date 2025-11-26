@@ -1,7 +1,10 @@
-## Hi there 👋
+## Hello! ☆
+
+I'm currently studying Bsc Software Engineering in uni. I'm learning python at the moment, but also excited to get my hands on  other languages.
+
+Very soon, I would like to try create my personal indie game because I like game design :)
 
 <!--
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Software Engineering.
 - 👯 I’m looking to collaborate on ...
