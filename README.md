@@ -1,10 +1,10 @@
-## Hello! ☆
+# Hello! ☆
 
 ### I see you've found my page, welcome.
 
-My name is _**Kin3y**_. I'm currently studying Bsc Software Engineering in uni. I'm learning Python at the moment, but also excited to get my hands on  other languages.
+My name is _**Kin3y**_. I'm currently studying Bsc Software Engineering in university. I'm learning Python at the moment, but also excited to get my hands on  other languages.
 
-Very soon, I would like to try create my personal indie game because I like game design :)
+`Very soon, I would like to try create my personal indie game because I like game design :)`
 
 <!--
 - 🔭 I’m currently working on ...
