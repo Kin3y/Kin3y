@@ -1,4 +1,4 @@
-# Hello! ☆
+# Hello!
 
 ### I see you've found my page, welcome.
 
